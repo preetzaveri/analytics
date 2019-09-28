@@ -1,4 +1,4 @@
-mtcars
+mtcars #control+enter
 ?mtcars
 mean
 ?mean
